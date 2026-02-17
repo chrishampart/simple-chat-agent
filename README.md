@@ -42,6 +42,10 @@ A basic interactive chatbot built using Google Cloud's Vertex AI Agent Engine an
 
 ## Usage
 
+> [!NOTE]
+> Ensure your virtual environment is activated before running any scripts:
+> `source venv/bin/activate`
+
 ### Deployment
 To deploy your agent to Vertex AI:
 ```bash
