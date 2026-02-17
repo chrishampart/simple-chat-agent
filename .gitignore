@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Vertex AI Agent Engine artifacts
+vertex_ai_agent_engine_artifacts/
+
+# OS
+.DS_Store
